@@ -1,4 +1,4 @@
-# LAB 1 : INSTALL VIRTUAL PLAYER AND LINUX
+# LAB 0 : INSTALL VIRTUAL PLAYER AND LINUX
 
 ## WHAT IS LINUX ?
 Linux is an open-source operating system kernel that serves as the
