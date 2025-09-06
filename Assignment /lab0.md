@@ -12,7 +12,7 @@ more.
     1 Go to the VirtualBox Website
 
     2 select your operating system
-### output :
+#### output :
 ![Image](<Screenshot from 2025-09-05 10-52-12.png>)
 
 ## STEP 2 : INSTALLING VIRTUAL BOX
@@ -20,19 +20,19 @@ more.
  ### 1 The beginning
  ![Image](img11.png)
  ### 2 select installation location
- ### output :
+ #### output :
  ![Image](<Screenshot from 2025-09-05 10-51-20.png>)
 
  ### 3 ready to install
-### output 
+#### output 
 ![Image](<Screenshot from 2025-09-05 10-51-33.png>)
 
  ### 4 installation complete 
-### output 
+#### output 
 ![Image](<Screenshot from 2025-09-05 10-49-55.png>)
 
  ### 5 opening virtualbox
-### output: 
+#### output: 
 ![Image](img10.png)
 ## STEP 3 : INSTALLING LINUX USING VIRTUALBOX
 ### 1 Naming virtual machine
@@ -44,10 +44,10 @@ more.
    – Select Type: Linux.
 
    – Select Version: Ubuntu
-   ### output 
+   #### output 
    ![Image](img12.png)
 ### 2 select the amount of ram
-### output 
+#### output 
 ![Image](img13.png)
 
 ### 3 Hard Disk setting
@@ -59,14 +59,14 @@ more.
 
   -now you are done with hardware settings.
 
- ### output 
+ #### output 
  ![Image](img14.png)
 ### 4 Launching your System
 
    Choose the downloaded Linux ISO file:
 
    – Click Start to launch your system
-### output :
+#### output :
  ![Image](img15(1).png)
 
 
@@ -79,7 +79,7 @@ more.
 
     – Click Install Linux Mint:
      testf
-### output:
+#### output:
 ![Image](img17.png)
 
 ### Make your Account:
@@ -95,7 +95,7 @@ ANS-
     > strong security and less vulnerable to viruses 
     > Regular updates and community support.
 
-####  Q2 : Name some flavors of ubuntu.
+### Q2 : Name some flavors of ubuntu.
 ANS- Ubuntu Desktop,Ubuntu Sever,Kubuntu,Xbuntu,Lubuntu,Ubuntu Mate.
 
 ### Q3 : Why Ubuntu popular among the Developers ? 
