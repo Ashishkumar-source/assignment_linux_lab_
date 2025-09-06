@@ -18,17 +18,22 @@ more.
 ## STEP 2 : INSTALLING VIRTUAL BOX
     
  ### 1 The beginning
-
+ ![Image](img11.png)
  ### 2 select installation location
  ### output :
+ ![Image](<Screenshot from 2025-09-05 10-51-20.png>)
 
  ### 3 ready to install
 ### output 
+![Image](<Screenshot from 2025-09-05 10-51-33.png>)
+
  ### 4 installation complete 
 ### output 
+![Image](<Screenshot from 2025-09-05 10-49-55.png>)
 
  ### 5 opening virtualbox
-###
+### output: 
+![Image](img10.png)
 ## STEP 3 : INSTALLING LINUX USING VIRTUALBOX
 ### 1 Naming virtual machine
 
@@ -39,9 +44,11 @@ more.
    – Select Type: Linux.
 
    – Select Version: Ubuntu
-   ### output
+   ### output 
+   ![Image](img12.png)
 ### 2 select the amount of ram
 ### output 
+![Image](img13.png)
 
 ### 3 Hard Disk setting
   Select hard disk setting:
@@ -53,28 +60,45 @@ more.
   -now you are done with hardware settings.
 
  ### output 
+ ![Image](img14.png)
 ### 4 Launching your System
 
    Choose the downloaded Linux ISO file:
 
    – Click Start to launch your system
+### output :
+ ![Image](img15(1).png)
 
-### output 
 
   - choose your iso file from your computer
+![Image](img16-1.png)
 
-   ![alt text](images/img16.png)
 ### 5 Final installation
 
     Install Linux
 
     – Click Install Linux Mint:
      testf
-### output 
+### output:
+![Image](img17.png)
 
 ### Make your Account:
-
 – Enter your details as shown below
-### output :
+Like as : password, username, etc.
+![Image](img18.png)
+# Finally We have successfully installed the UBUNTU LINUX .
 
-# CONGRATULATIONS YOU HAVE SUCCESSFULLY INSTALLED THEUBUNTU LINUX .
+#### Q1: what are the main advantages of using UBUNTU ? 
+ANS- 
+    > Free and open source 
+    > strong security and less vulnerable to viruses 
+    > Regular updates and community support 
+    > Easy to use with a c;ean interface 
+    > works well on older hardware 
+
+####  Q2 : Name some flavors of ubuntu.
+ANS- Ubuntu Desktop,Ubuntu Sever,Kubuntu,Xbuntu,Lubuntu,Ubuntu Mate.
+
+### Q3 : Why Ubuntu popular among the Developers ? 
+ANS-  It has pre-installed development tools,supports many language, provides pacages managers(APT,Snap) , and Works well with cloud technologies.
+
