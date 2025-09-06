@@ -88,13 +88,12 @@ Like as : password, username, etc.
 ![Image](img18.png)
 # Finally We have successfully installed the UBUNTU LINUX .
 
-#### Q1: what are the main advantages of using UBUNTU ? 
-ANS- 
+
+### Q1 : what are two advantages of installing ubuntu in virtual box ?
+ANS-
     > Free and open source 
     > strong security and less vulnerable to viruses 
-    > Regular updates and community support 
-    > Easy to use with a c;ean interface 
-    > works well on older hardware 
+    > Regular updates and community support.
 
 ####  Q2 : Name some flavors of ubuntu.
 ANS- Ubuntu Desktop,Ubuntu Sever,Kubuntu,Xbuntu,Lubuntu,Ubuntu Mate.
