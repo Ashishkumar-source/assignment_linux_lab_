@@ -276,9 +276,8 @@ Operators:
 
 
 Modes can be set in **numeric (octal)** or **symbolic** form.
-
-![alt text](../images/img22.png)
-
+#### output:
+![Image](<Screenshot from 2025-09-07 22-27-48.png>)
 ---
 ### (C) Recursive Changes
 
@@ -288,12 +287,9 @@ chmod -R 755 /mydir
 
 * `-R` → applies changes recursively to all files/subdirectories.
 
-
-![alt text](../images/img23.png)
-
-!![alt text](../images/img24.png)
-
-![alt text](../images/img25.png)
+![Image](<Screenshot from 2025-09-07 22-29-45.png>)
+![Image](<Screenshot from 2025-09-07 22-40-48.png>)
+![Image](<Screenshot from 2025-09-07 22-43-33.png>)
 ---
 
 ## 🔹 3. `chown` – Change File Ownership
@@ -307,10 +303,10 @@ chown [options] new_owner:new_group filename
 ### Examples:
 
 ```bash
-chown vanshgoel.txt          # Change owner to user 'sameer'
-chown vansh:dev.txt       # Change owner to 'sameer' and group to 'dev'
-chown vansh:dev file.txt            # Change only group to 'dev'
-chown -R vansh :dev /project    # Recursive ownership change
+chown ashish.txt         # Change owner to user 'sameer'
+chown ashish:dev.txt       # Change owner to 'sameer' and group to 'dev'
+chown ashish:dev file.txt            # Change only group to 'dev'
+chown -R ashish:dev /project    # Recursive ownership change
 ```
 # **Practice Experiment on `chown`**
 
@@ -357,7 +353,7 @@ ls -l testfile.txt
 Example:
 
 ```
--rw-rw-r--1 sameerbhardwaj sameerbhardwaj 0 Aug 20 18:52 testfile.txt
+-rw-rw-r--1 sameerchoudhary sameerchoudhary 0 Aug 20 18:52 testfile.txt
 ```
 
 ---
@@ -384,8 +380,7 @@ ls -l testfile.txt
 ---
 
 ✅ **Key Tip**: Use **numeric for quick settings** (e.g., 755, 644) and **symbolic for fine adjustments** (`u+x`, `g-w`).
-
-![alt text](../images/img52.png)
+![Image](<Screenshot from 2025-09-07 22-57-43.png>)
 
 ---
 
@@ -429,7 +424,7 @@ chown root:admin project.sh # Change owner to root and group to admin
 
 ---
 ### 📌 Q1 what is the difference between chmod and chown?
-    ans=chown-change ownership
+    ANS=chown-change ownership
          change the owner and group of a file or directory
         
         chmod-change permissions
@@ -437,4 +432,4 @@ chown root:admin project.sh # Change owner to root and group to admin
         
 ### 📌 Q2 how do you check current directory and user?
 
-      ans= by using the pwd command.
+      ANS = by using the pwd command to check current directory and by using the whoami to check current user.  
