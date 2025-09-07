@@ -217,7 +217,7 @@ Breakdown:
 * `r--` → Others have read only
 
 ### output : 
-
+![Image](<Screenshot from 2025-09-07 21-58-11.png>)
 ---
 ## 🔹 2. `chmod` – Change File Permissions
 
@@ -225,7 +225,7 @@ Breakdown:
 
 ```bash
 chmod [options] mode filename
-```
+``` 
 
 Modes can be set in **numeric (octal)** or **symbolic** form.
 
@@ -260,11 +260,12 @@ Meaning:
 * Others: 7 → `r-w-x`
 
 ### **image**
-![alt text](../images/img19.png)
+![Image](<Screenshot from 2025-09-07 22-16-26.png>)
+![Image](<Screenshot from 2025-09-07 22-16-41.png>)
+![Image](<Screenshot from 2025-09-07 22-18-25.png>)
+![Image](<Screenshot from 2025-09-07 22-17-40.png>)
 
-![alt text](../images/img20.png)
-
-### (B) Symbolic Method
+### (B) Symbolic Method  
 
 Use `u` (user/owner), `g` (group), `o` (others), `a` (all).
 Operators:
