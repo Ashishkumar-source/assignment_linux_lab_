@@ -22,7 +22,7 @@
 a="Ashish Choudhary"           -taking Ashish choudhary in the variable a
 b=40                 -taking 40 in the variable b
 
-if [ $a="vansh" ] && [ $b -gt 18 ]; then      -checking conditions and using an opreator and(&&)
+if [ $a="Ashish CHoudhary" ] && [ $b -gt 18 ]; then      -checking conditions and using an opreator and(&&)
     echo " you are adult "                     - printing you are adult
 fi
 
@@ -31,16 +31,15 @@ if [ $a=" akshat" ] && [ $b -lt 18 ]; then       -checking conditions and using 
 fi
 
 ```
-![alt text](../images/img38.png)
-
-![alt text](../images/img39.png)
+![Image](<Screenshot from 2025-09-08 01-07-53.png>)
+![Image](<Screenshot from 2025-09-08 01-11-20.png>)
 
 
 ### 🔧 Q1 what is the purpose of #!/bin/bash at the top of the script
 
-    ans= the shebang line at the top of a script specifies the interpreter that should be used to the run the script.
+ANS-- the shebang line at the top of a script specifies the interpreter that should be used to the run the script.
 
 ### 🔧 Q2 how do you make a script executable?
-    ans = 1. add the shebang at the top
+ANS-- 1. add the shebang at the top
           2. give permission using the chmod command
           3. run the code.
