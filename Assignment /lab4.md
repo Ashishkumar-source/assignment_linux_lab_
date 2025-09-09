@@ -4,8 +4,7 @@
 
 # ✅1.⁠ ⁠backup.sh Script
 Create a new file named backup.sh inside your project folder:
-
-![alt text](../images/img42.png)
+![Image](<Screenshot from 2025-09-09 14-48-55.png>)
 
 # ✅ 2. Make Script Executable
 Run the following command once:
@@ -14,12 +13,11 @@ chmod 777 backup.sh
 
 # ✅ 3. Testing the script
 ## 1. Create some samples .txt files:
-
-![alt text](../images/img43.png)
+![Image](<Screenshot from 2025-09-09 14-46-10-1.png>)
 ## 2. Run the script:
 
 ./backup.sh
-![alt text](../images/img44.png)
+![Image](<Screenshot from 2025-09-09 14-46-43.png>)
 ## 3. Check the backup/folder:
 
 ls backup/
