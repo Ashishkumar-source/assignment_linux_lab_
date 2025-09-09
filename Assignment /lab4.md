@@ -21,7 +21,7 @@ chmod 777 backup.sh
 ## 3. Check the backup/folder:
 
 ls backup/
-![alt text](../images/img45.png)
+![Image](<Screenshot from 2025-09-09 20-07-30.png>)
 
 # 🔧 LAB4– File & Backup Automation
 
@@ -71,7 +71,7 @@ world.txt
 ### Output
 Files copied into ⁠ backup/ ⁠ with timestamps:
 
-![alt text](../images/img44.png)
+![Image](<Screenshot from 2025-09-09 20-10-08.png>)
 ### 🛠️ Q1-What is the difference between cp,mv,and rsync?
 
      ans=cp-Copies files or directories
