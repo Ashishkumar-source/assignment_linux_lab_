@@ -34,7 +34,7 @@ the project/ folder).
 
 ## 🔧 Check the folder structure:
 
-![alt text](../images/img48.png)
+![Image](<Screenshot from 2025-09-09 20-28-26.png>)
 
 # 🔧 LAB Extra – Starter Kit & Automation
 
